@@ -1,0 +1,34 @@
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:hover {
+	BACKGROUND: #dddddd; COLOR: #ff0000; TEXT-DECORATION: underline
+}
+TABLE {
+	FONT-SIZE: 14px
+}
+TH {
+	FONT-SIZE: 14px
+}
+TD {
+	FONT-SIZE: 14px
+}
+P {
+	FONT-SIZE: 14px
+}
+INPUT {
+	FONT-SIZE: 14px
+}
+TEXTAREA {
+	FONT-SIZE: 14px
+}
+SELECT {
+	FONT-SIZE: 14px
+}
+.title{
+font-size: medium; font-family:ËÎÌו, sans-serif; font-family:
+}
+
